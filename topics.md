@@ -1,43 +1,66 @@
 #JavaScript Topics
 
-* Grunt and Gulp
-* Backbone.js and Marionette.js
-* Unit-Testing
+## Project and Build Tools
+* Grunt
+* Gulp
 * RequireJS
-* Meteor.js
-* Assemble.io
-* Reactive
-* Rx.Js
-* Johnny-Five
-* Promises
-* Node Streams
-* Q
-* Async
 * Yeoman
-* Emmet
-* Less and Sass
+* bower.io
+* browserify
+* npm
+
+### Unit-Testing
 * Jasmine
 * Mocha
 * Istanbul
-* Ember.js
-* Angular.js
-* D3
-* Socket.io
-* npm
-* jQuery
-* coffeescript
-* Node.Js
-* Express
-* bower.io
-* handlebars
-* mustache
-* underscore
 * qunit
 * phantomjs
 * selenium
-* Oak
-* Prototypal Interface
-* this
+
+## MV* Frameworks and Tools
+* Backbone.js and Marionette.js
+* Reactive
+* Meteor.js
+* Rx.Js
+* Ember.js
+* Angular.js
+* Assemble.io
 * Knockout.js
 * breezeJS
-* CanJS
+* CanJs
+
+## Concepts
+* Promises
+* Node Streams
+* coffeescript
+* Prototypal Interface
+* this
+
+## Libraries
+* Q
+* Async
+
+## Graphics
+* D3
+* raphael
+* canvas
+* processingjs
+* game development
+
+## NodeJs
+* Node Streams
+* Socket.io
+* Express
+
+## Templating
+* handlebars
+* mustache
+* underscore
+
+## Web Development Tools
+* Less and Sass
+* bootstrap and other frameworks
+* jQuery
+
+## Hardware
+* Johnny-Five
